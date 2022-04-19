@@ -3,23 +3,23 @@
   "id": "modid",
   "version": "${version}",
 
-  "name": "Example Mod",
-  "description": "This is an example description! Tell everyone what your mod is about!",
+  "name": "Witchery 2 Mod",
+  "description": "Witchery 2, the unofficial sequel to Witchery, a Minecraft mod for doing witchy things.",
   "authors": [
-    "Me!"
+    "HigherLevel a.k.a. HigherLight"
   ],
   "contact": {
-    "homepage": "https://fabricmc.net/",
-    "sources": "https://github.com/FabricMC/fabric-example-mod"
+    "homepage": "",
+    "sources": "https://github.com/HigherLightz/witchery-two"
   },
 
   "license": "CC0-1.0",
-  "icon": "assets/modid/icon.png",
+  "icon": "assets/witchtwo/icon.png",
 
   "environment": "*",
   "entrypoints": {
     "main": [
-      "net.fabricmc.example.ExampleMod"
+      "me.higherlevel.witcherytwo.WitcheryTwoMod"
     ]
   },
   "mixins": [
